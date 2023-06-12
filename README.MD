@@ -4,7 +4,9 @@
 - Search for tv shows
 - Pagination 
 - Display movie / tv shows details 
+### Deployed Site
 
+[Demo](https://velvety-nougat-c51b5b.netlify.app/)
 
 ![Project Image](./projectImg/sc1.png)
 --
